@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\SenlaTest\SenlaTest\bin\Debug\netcoreapp2.1\SenlaTest.deps.json
+C:\Users\PC\source\repos\SenlaTest\SenlaTest\bin\Debug\netcoreapp2.1\SenlaTest.runtimeconfig.json
+C:\Users\PC\source\repos\SenlaTest\SenlaTest\bin\Debug\netcoreapp2.1\SenlaTest.runtimeconfig.dev.json
+C:\Users\PC\source\repos\SenlaTest\SenlaTest\bin\Debug\netcoreapp2.1\SenlaTest.dll
+C:\Users\PC\source\repos\SenlaTest\SenlaTest\bin\Debug\netcoreapp2.1\SenlaTest.pdb
+C:\Users\PC\source\repos\SenlaTest\SenlaTest\obj\Debug\netcoreapp2.1\SenlaTest.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\SenlaTest\SenlaTest\obj\Debug\netcoreapp2.1\SenlaTest.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SenlaTest\SenlaTest\obj\Debug\netcoreapp2.1\SenlaTest.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SenlaTest\SenlaTest\obj\Debug\netcoreapp2.1\SenlaTest.AssemblyInfo.cs
+C:\Users\PC\source\repos\SenlaTest\SenlaTest\obj\Debug\netcoreapp2.1\SenlaTest.dll
+C:\Users\PC\source\repos\SenlaTest\SenlaTest\obj\Debug\netcoreapp2.1\SenlaTest.pdb
